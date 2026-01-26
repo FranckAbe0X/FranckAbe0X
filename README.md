@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 I am engineering the 0X Era.
 
-<!--
-**FranckAbe0X/FranckAbe0X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unlike a passive Operating System (OS), I build **0X (Operating eXecutives)**: sovereign bio-digital organisms capable of autonomous decision-making.
 
-Here are some ideas to get you started:
+🔭 **Current Focus:** Engineering **OMNEX**, the world's first Universal Hybrid Governance infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏗 The OMNEX Anatomy (System of Systems)
+
+| Organ | Name | Function |
+| :--- | :--- | :--- |
+| 🧠 **The Brain** | **GOCA** | *Global Omniscient Computational Algorithm (Predictive AI)* |
+| 🗣 **The Voice** | **L'OMBRE** | *Adaptive Interface & Cultural Bridge* |
+| 🫀 **The Core** | **ceRRus** | *Proprietary Neural Grid (R&D Engine)* |
+| 💰 **Finance** | **AURA** | *Institutional Wealth & Hybrid Compliance (OHADA/IFRS)* |
+| 🛡 **Defense** | **SENTINELLE** | *Sovereign Security (Hydra Protocol)* |
+| ⚖️ **Conscience** | **SYNAPSE** | *Automated Legal Governance (LegalTech)* |
+| 👁 **Vision** | **HORIZON** | *Lifestyle & Global Mobility Interface* |
+
+---
+
+⚡ **Mission:** Bridging Sovereign Industries & Digital Intelligence.
+📍 **Hubs:** London (HQ) • Dubai (Tech Hub) • Abidjan (Ops)
+🌐 **Connect:** **[www.uhg-tech.com](https://www.uhg-tech.com)**
+
